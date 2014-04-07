@@ -68,12 +68,14 @@ blockquote {
 
 /* ===== Main Menu ===== */
 
+/*side bar background */
 .header-section {
 	width: 240px;
 	height: 100%;
 	position: fixed;
 	margin-top: -40px;
-	background-color: #00aaaa;
+	background-color: #000;
+	background: url(../images/bgTile.JPEG);
 	box-shadow: 3px 0px 3px #000000;
 	z-index: 100;
 }
@@ -134,7 +136,7 @@ blockquote {
 }
 
 .main-menu ul li:hover {
-	background-color: #00c7c7;
+	background-color: #858a4c;
 }
 
 .main-menu ul li a {
@@ -163,7 +165,7 @@ blockquote {
 }
 
 .main-menu ul .menu-active {
-	background-color: #00c7c7;
+	background-color: #858a4c;
 }
 
 .menu-active .hover-active {
@@ -186,6 +188,10 @@ blockquote {
 	margin-bottom: 3px;
 }
 
+.main-menu ul ul li:hover {
+	background-color: #a2a94e;
+}
+
 .main-menu ul ul li a {
 	font-size: 14px;
 }
@@ -203,7 +209,7 @@ blockquote {
 	left: 0px;
 	width: 100%;
 	height: 100%;
-	background-color: #00aaaa;
+	background-color: #858a4c;
 	z-index: -1;
 	
 	/* These three lines are for transparency in all browsers. */
@@ -346,11 +352,11 @@ blockquote {
 	box-sizing:border-box;
   	-moz-box-sizing:border-box;
   	-webkit-box-sizing:border-box;
-	border-left: #00aaaa solid 5px;
+	border-left: #858a4c solid 5px;
 }
 
 .light {
-	background-color: #00aaaa;
+	background-color: #858a4c;
 	border-left: none;
 }
 
@@ -549,7 +555,7 @@ blockquote {
 }
 
 .icon .icon-light {
-	background-color: #00aaaa;
+	background-color: #858a4c;
 }
 
 .icon .text-white {
@@ -679,7 +685,7 @@ blockquote {
 .active-details {
 	width: 100%;
 	height: 100%;
-	background-color: #00aaaa;
+	background-color: #858a4c;
 	padding: 20px;
 	position: relative;
 	
@@ -720,7 +726,7 @@ blockquote {
 .small-thumb {
 	width: 241px;
 	height: 241px;
-	background-color: #00aaaa;
+	background-color: #858a4c;
 	padding: 20px;
 	position: relative;
 	
@@ -772,11 +778,11 @@ blockquote {
 	box-sizing:border-box;
   	-moz-box-sizing:border-box;
   	-webkit-box-sizing:border-box;
-	border-left: #00aaaa solid 5px;
+	border-left: #858a4c solid 5px;
 }
 
 .light {
-	background-color: #00aaaa;
+	background-color: #858a4c;
 	border-left: none;
 }
 
@@ -1186,12 +1192,12 @@ blockquote {
 
 .next-page ul li:hover{
 	color: #ffffff;
-	background-color: #00aaaa;
+	background-color: #858a4c;
 }
 
 .next-page .page-active {
 	color: #ffffff;
-	background-color: #00aaaa;
+	background-color: #858a4c;
 }
 
 .next {
@@ -1266,7 +1272,7 @@ blockquote {
 	display: table;
 	margin-top: 20px;
 	background-color: #2e2e2e;
-	border-left: #00aaaa solid 5px;
+	border-left: #858a4c solid 5px;
 	border-collapse: separate;
 	border-spacing: 30px;
 }
@@ -1443,7 +1449,7 @@ aside {
 }
 
 .sidebar-title {
-	background-color: #00aaaa;
+	background-color: #858a4c;
 }
 
 .sidebar-title h2{
@@ -1642,7 +1648,7 @@ aside {
 }
 
 .sidebar-tags li:hover {
-	background-color: #00aaaa;
+	background-color: #858a4c;
 }
 
 .sidebar-tags a {
