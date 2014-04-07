@@ -54,7 +54,7 @@
 	color: #ffffff;
 	text-align: center;
 	float: right;
-	background-color: #00aaaa;
+	background-color: #858a4c;
 	margin-top: 20px;
 	padding: 9px;
 	border: none;
@@ -74,7 +74,7 @@
 }
 
 .subscribe-box .subscribe-button:hover {
-	background-color: #009797;
+	background-color: #a2a94e;
 }
 
 /* ===== End ===== */

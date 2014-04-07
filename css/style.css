@@ -229,6 +229,20 @@ blockquote {
 	opacity: 0.8;
 }
 
+.side-contact {
+	font-family: Kenzo;
+	margin-top: 370px;
+	position: relative;
+}
+
+.phone {
+	margin-bottom: 20px;
+} 
+
+.email {
+	margin-bottom: 23px;
+}
+
 /* ===== Nav Menu End ===== */
 
 
@@ -472,6 +486,7 @@ blockquote {
 
 .right {
 	float: right;
+	margin-bottom: 20px;
 }
 
 .large-grid {
@@ -806,11 +821,13 @@ blockquote {
 }
 
 .call-action h1 {
-	font-size: 2.2em;
+	font-size: 36px;
 	font-weight: 300;
-	line-height: 42px;
+	line-height: 43.2px;
 	color: #aaaaaa;
 	float: left;
+	font-family: Kenzo;
+	letter-spacing: 0 em;
 }
 
 .call-action a {
@@ -971,6 +988,9 @@ blockquote {
 
 
 /* ===== Portfolio ===== */
+.container .portfolio {
+	margin-bottom: 20px;
+}
 
 .portfolio ul {
 	list-style: none;
