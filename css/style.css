@@ -75,7 +75,7 @@ blockquote {
 	position: fixed;
 	margin-top: -40px;
 	background-color: #000;
-	background: url(../images/bgTile.JPEG);
+	background: url(../images/bgTile.jpg);
 	box-shadow: 3px 0px 3px #000000;
 	z-index: 100;
 }
@@ -86,7 +86,7 @@ blockquote {
 	text-align: center;
 	padding: 40px 0px 38px 0px;
 	background-color: #ffffff;
-	border-bottom: #00e0e0 solid 5px;
+	/*border-bottom: #00e0e0 solid 5px;*/
 }
 
 
