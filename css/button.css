@@ -20,7 +20,7 @@
 	font-weight: 600;
 	color: #ffffff;
 	text-align: center;
-	background-color: #00aaaa;
+	background-color: #858a4c;
 	padding: 12px;
 	border-radius: 5px;
 	
@@ -49,7 +49,7 @@
 .large-button:hover,
 .work-button:hover,
 .readmore-button:hover {
-	background-color: #009797;
+	background-color: #a2a94e;
 }
 
 .dark-button:hover {
